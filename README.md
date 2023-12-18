@@ -1,6 +1,6 @@
 # Metaplex iOS SDK
 
-This SDK helps developers get started with the on-chain tools provided by Metaplex. It focuses its API on common use cases to provide a smooth developer experience. 
+TThis SDK helps developers get started with the on-chain tools provided by Metaplex. It focuses its API on common use cases to provide a smooth developer experience. 
 
 ⚠️ Please note that this SDK has been implemented from scratch and is currently in alpha. This means some of the core API and interfaces might change from one version to another. Feel free to contact me about bugs, improvements and new use cases. 
 
